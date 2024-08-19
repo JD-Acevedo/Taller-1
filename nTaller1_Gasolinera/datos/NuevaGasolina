@@ -1,0 +1,13 @@
+tipo:LaMejorGasolinaDelMundo:1000000:10.0
+tipo:GasolinaMaluka:100:5000.0
+tipo:Corriente:300:2500.0
+tipo:Diesel:4321:1234.0
+surtidor:Sumerce:LaMejorGasolinaDelMundo:0.0:GasolinaMaluka:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Tomas:LaMejorGasolinaDelMundo:0.0:GasolinaMaluka:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Sumerce:LaMejorGasolinaDelMundo:0.0:GasolinaMaluka:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Sumerce:LaMejorGasolinaDelMundo:0.0:GasolinaMaluka:0.0:Corriente:0.0:Diesel:0.0
+empleado:Sumerce:0
+empleado:Jose:0
+empleado:Sofia:0
+empleado:Tomas:0
+empleado:Juan:0
